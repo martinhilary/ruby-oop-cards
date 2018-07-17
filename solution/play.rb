@@ -1,5 +1,8 @@
 require './game'
 require './cards'
+require './cards.rb'
+require './game.rb'
+
 
 playing = true
 
